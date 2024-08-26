@@ -1,7 +1,7 @@
 <img width="1200" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 <h1 align="center">Hi 👋, I'm Tanjilur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2JLeqYp032K6sTLNW8gi3y&ust=1724741647746000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjh_rmJkogDFQAAAAAdAAAAABBR"
+<img align="right" alt="coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imyourtanjil&label=Profile%20views&color=0e75b6&style=flat" alt="imyourtanjil" /> </p>
