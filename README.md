@@ -4,11 +4,6 @@
 <img align="right" alt="coding" width="400" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1kHEgewyUp-ttr19nwwZ7nUUfCEwfYsJE3w&s">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imyourtanjil&label=Profile%20views&color=0e75b6&style=flat" alt="imyourtanjil" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imyourtanjil" alt="imyourtanjil" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/imyourtanjil" target="blank"><img src="https://img.shields.io/twitter/follow/imyourtanjil?logo=twitter&style=for-the-badge" alt="imyourtanjil" /></a> </p>
 
 - 💬 Ask me about **HTML5,CSS3,JAVASCRIPT**
 
