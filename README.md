@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw1FFXhjcKmZimFJC3RSfPhZ&ust=1724741437605000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJimgNaIkogDFQAAAAAdAAAAABAJ)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Tanjilur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src ="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2JLeqYp032K6sTLNW8gi3y&ust=1724741647746000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKjh_rmJkogDFQAAAAAdAAAAABBR"
